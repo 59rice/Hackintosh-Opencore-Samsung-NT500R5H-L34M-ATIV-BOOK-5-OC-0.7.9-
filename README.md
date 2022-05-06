@@ -30,3 +30,8 @@ I wrote down the detailed description of this EFI in the notion
       - Handoff,Sidecar,Universal Control and all community services
       - ̶A̶i̶r̶p̶l̶a̶y̶ ̶(̶ ̶A̶p̶p̶l̶e̶ ̶s̶t̶u̶c̶k̶ ̶l̶a̶n̶ ̶a̶i̶r̶p̶l̶a̶y̶ ̶o̶n̶ ̶b̶i̶g̶ ̶s̶u̶r̶ ̶)̶ ̶-̶ ̶P̶o̶s̶s̶i̶b̶l̶e̶ ̶t̶o̶ ̶U̶s̶e̶ ̶A̶i̶r̶p̶a̶r̶r̶o̶t̶ ̶3̶.̶1̶.̶3̶!̶
       - Intel Speed Step
+      
+## Bios Setting
+
+#### Download my EFI on Github repo and Google drive!
+[Google_Drive](https://drive.google.com/file/d/150nbvnXLs56LqErljnWgjjkRxtmu4WdY/view)**
