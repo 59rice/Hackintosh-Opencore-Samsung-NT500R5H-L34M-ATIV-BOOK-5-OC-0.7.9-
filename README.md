@@ -6,10 +6,10 @@ I wrote down the detailed description of this EFI in the notion
 
 # Working Features
 
-![Screen Shot 2022-03-30 at 5 49 35 PM](https://user-images.githubusercontent.com/101755125/167149957-d6dd306d-d51e-4af9-abd9-f06b2f53e9e5.png)
+<img src = "https://user-images.githubusercontent.com/101755125/167149957-d6dd306d-d51e-4af9-abd9-f06b2f53e9e5.png" width="60%"></img>
 
 ## Hardware spec
-![Screen Shot 2022-03-30 at 5 49 53 PM](https://user-images.githubusercontent.com/101755125/167151328-84134967-cfe3-4732-9cc4-ff58719f3427.png)
+<img src = "https://user-images.githubusercontent.com/101755125/167151328-84134967-cfe3-4732-9cc4-ff58719f3427.png" width="60%"></img>
 
        - CPU: Intel Core(R) i3-5005U Dual-Core 2.00Ghz
        - Memory : LPDDR3 4GB 1800 MHz
