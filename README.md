@@ -37,11 +37,9 @@ I wrote down the detailed description of this EFI in the notion
        ATIV WebCam
        
 ## Not Working yet
+
       Battery Percentage ( If Battery Patch this device, it coming freezing in 30m )
-      S̶D̶ ̶C̶a̶r̶d̶ ̶R̶e̶a̶d̶e̶r̶ ̶(̶ ̶D̶e̶a̶d̶ ̶)̶
-      V̶G̶A̶ ̶(̶ ̶R̶e̶a̶l̶ ̶M̶a̶c̶s̶ ̶d̶o̶n̶'̶t̶ ̶h̶a̶v̶e̶ ̶V̶G̶A̶ ̶p̶o̶r̶t̶s̶,̶ ̶s̶o̶ ̶d̶o̶e̶s̶n̶'̶t̶ ̶h̶a̶v̶e̶ ̶s̶u̶p̶p̶o̶r̶t̶ ̶)̶
-      Handoff,Sidecar,Universal Control and all community services
-      A̶i̶r̶p̶l̶a̶y̶ ̶(̶ ̶A̶p̶p̶l̶e̶ ̶s̶t̶u̶c̶k̶ ̶l̶a̶n̶ ̶a̶i̶r̶p̶l̶a̶y̶ ̶o̶n̶ ̶b̶i̶g̶ ̶s̶u̶r̶ ̶)̶ ̶-̶ ̶P̶o̶s̶s̶i̶b̶l̶e̶ ̶t̶o̶ ̶U̶s̶e̶ ̶A̶i̶r̶p̶a̶r̶r̶o̶t̶ ̶3̶.̶1̶.̶3̶!̶
+      Handoff,Sidecar,Universal Control and all community services( USB Dongle Airplay is not working on big sur )
       Intel Speed Step
       
 ## Bios Setting
