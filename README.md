@@ -24,7 +24,6 @@ I wrote down the detailed description of this EFI in the notion
 ## Working Functions       
        
 <img src = "https://user-images.githubusercontent.com/101755125/192199611-3a393b73-0354-4d21-b543-f1cf7af1b9b4.png" width="40%"></img>
-<img src = "https://user-images.githubusercontent.com/101755125/192199635-79eb4897-e59b-4180-920c-cb93190c78d6.png" width="40%"></img>
 <img src = "https://user-images.githubusercontent.com/101755125/192199934-58f926f0-0a54-4b28-ae79-9dcd9eea8acb.png" width="40%"></img>
 <img src = "https://user-images.githubusercontent.com/101755125/192199950-d1011555-e387-4c5b-b285-d09be8348359.png" width="40%"></img>
 
