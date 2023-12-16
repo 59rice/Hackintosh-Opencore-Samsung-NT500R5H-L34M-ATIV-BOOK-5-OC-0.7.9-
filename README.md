@@ -4,10 +4,6 @@ Opencore EFI for Samsung ATIV Book Series
 <img src = "https://user-images.githubusercontent.com/101755125/192199129-9fdab535-4244-4250-9e9a-116e4fc65818.png" width="70%"></img>
 
 
-I wrote down the detailed description of this EFI in the notion
-> https://alive-bayberry-ea1.notion.site/Samsung-NT500R5H-L34M-Hackintosh-OC-0-7-9-Complete-6c87378e07c84bcf916260b934e90e16
-
-
 # Working Features
 
 <img src = "https://user-images.githubusercontent.com/101755125/167149957-d6dd306d-d51e-4af9-abd9-f06b2f53e9e5.png" width="49%"></img>
@@ -41,11 +37,5 @@ I wrote down the detailed description of this EFI in the notion
       Handoff,Sidecar,Universal Control and all community services( USB Dongle Airplay is not working on big sur )
       Intel Speed Step
       
-## Bios Setting
-
-
-#### Download my EFI on Github repo and Google drive!
-[Google_Drive](https://drive.google.com/file/d/150nbvnXLs56LqErljnWgjjkRxtmu4WdY/view)
-
 
 
