@@ -1,6 +1,10 @@
 # Opencore-ATIV-BOOK-5-Samsung-NT500R5H-L34M-OC-0.7.9-
 Opencore EFI for Samsung ATIV Book Series
 
+>This project will not be maintained for future versions of OpenCore as the developers no longer own the hardware.
+>
+>Switch to read-only archive as this repository will be deprecated in 2024
+
 <img src = "https://user-images.githubusercontent.com/101755125/192199129-9fdab535-4244-4250-9e9a-116e4fc65818.png" width="70%"></img>
 
 
