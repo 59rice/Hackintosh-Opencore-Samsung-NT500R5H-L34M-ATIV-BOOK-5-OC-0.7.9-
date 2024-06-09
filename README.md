@@ -22,6 +22,8 @@ Opencore EFI for Samsung ATIV Book Series
 >
 >If it does work, you may need to use the Opencore Legacy Patcher for proper acceleration
 >
+>It's not a complete release, so we uploaded it as a pre-release
+>
 >Have a Happy Hackintosh :D
 
 <img src = "https://user-images.githubusercontent.com/101755125/192199129-9fdab535-4244-4250-9e9a-116e4fc65818.png" width="70%"></img>
