@@ -1,10 +1,20 @@
-# Opencore-ATIV-BOOK-5-Samsung-NT500R5H-L34M-OC-0.7.9-
+# Opencore-ATIV-BOOK-5-Samsung-NT500R5H-L34M-OC-1.0.0
 Opencore EFI for Samsung ATIV Book Series
 
->This project will not be maintained for future versions of OpenCore as the developers no longer own the hardware.
+⚠ New Notice!
+>This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
 >
->Switch to read-only archive as this repository will be deprecated in 2024
-
+>The developer no longer has that hardware, so that version has not been tested for operation.
+>If the version doesn't work, you can use the
+>please use the 0.7.9 release of Opencore, which has been verified to work.
+>
+>We did a major update from 0.7.9 to 1.0.0, so we don't know if it will work correctly
+>
+>If it does work, you may need to use the Opencore Legacy Patcher for proper acceleration
+>
+>Have a Happy Hackintosh :D
+>
+>
 <img src = "https://user-images.githubusercontent.com/101755125/192199129-9fdab535-4244-4250-9e9a-116e4fc65818.png" width="70%"></img>
 
 
