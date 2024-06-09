@@ -2,8 +2,7 @@
 Opencore EFI for Samsung ATIV Book Series
 
 ⚠ Notice!
->We Made New EFI for compatibility MacOS Sonoma/Haeadless System
->
+
 >This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
 >
 >The developer no longer has that hardware, so that version has not been tested for operation.
